@@ -8,33 +8,32 @@ I build full-stack products end to end: the interface, the API behind it, and th
 
 **[Chat App](https://chat-app-frontend-t3oe.onrender.com)** &nbsp;·&nbsp; **[Minimus](https://minimus-frontend.onrender.com)** &nbsp;·&nbsp; **[All repositories](https://github.com/dncoder14?tab=repositories)**
 
-<img src="assets/divider.svg" width="100%" alt="">
-
 </div>
 
-## About
+<picture>
+  <source media="(max-width: 760px)" srcset="assets/sec-about-m.svg">
+  <img src="assets/sec-about.svg" width="100%" alt="About">
+</picture>
 
 - **Now:** Full-Stack Developer Intern at Pixel Flow Studio, working with React, FastAPI and PostgreSQL
 - **At work:** REST APIs, third-party messaging integrations, document automation, delivery tracking and backend workflows
 - **Studying:** B.Tech in Computer Science and Engineering at Newton School of Technology, ADYPU
 - **On my own:** designing, building and deploying complete apps, from real-time messaging to media tracking
 
-<div align="center">
-<img src="assets/divider.svg" width="100%" alt="">
-</div>
-
-## Tech stack
+<picture>
+  <source media="(max-width: 760px)" srcset="assets/sec-stack-m.svg">
+  <img src="assets/sec-stack.svg" width="100%" alt="Tech stack">
+</picture>
 
 <picture>
   <source media="(max-width: 760px)" srcset="assets/stack-m.svg">
   <img src="assets/stack.svg" width="100%" alt="Tech stack. Frontend: React, Next.js, JavaScript, HTML, CSS, Vite, Tailwind CSS. Backend: Node.js, Express, Python, FastAPI. Data and tools: PostgreSQL, MySQL, MongoDB, Prisma, Git, GitHub, Postman, Docker.">
 </picture>
 
-<div align="center">
-<img src="assets/divider.svg" width="100%" alt="">
-</div>
-
-## Projects
+<picture>
+  <source media="(max-width: 760px)" srcset="assets/sec-projects-m.svg">
+  <img src="assets/sec-projects.svg" width="100%" alt="Projects">
+</picture>
 
 ### Chat App
 **Real-time messaging**
@@ -62,11 +61,10 @@ Search and browse titles, keep watchlists, favorites and history, rate and revie
 
 **[Live demo](https://minimus-frontend.onrender.com)** &nbsp;·&nbsp; **[Source code](https://github.com/dncoder14/Minimus)**
 
-<div align="center">
-<img src="assets/divider.svg" width="100%" alt="">
-</div>
-
-## Experience
+<picture>
+  <source media="(max-width: 760px)" srcset="assets/sec-experience-m.svg">
+  <img src="assets/sec-experience.svg" width="100%" alt="Experience">
+</picture>
 
 **Full-Stack Developer Intern, Pixel Flow Studio**
 
