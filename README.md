@@ -14,11 +14,7 @@
 </a>
 </div>
 
-> **Chat App** is a real-time messenger I built end to end. It has live typing indicators and online status, contact management, image sharing, stories that expire after 24 hours, profile management, and a responsive light and dark interface.
->
-> React · Vite · Tailwind CSS · Zustand · Node.js · Express · Socket.io · PostgreSQL · Prisma · JWT · Cloudinary
->
-> [Live demo](https://chat-app-frontend-t3oe.onrender.com) · [Source](https://github.com/dncoder14/chat-app)
+> **Chat App**, a real-time messenger built end to end. [Live demo](https://chat-app-frontend-t3oe.onrender.com) · [Source](https://github.com/dncoder14/chat-app)
 
 <div align="center">
 <a href="https://minimus-frontend.onrender.com">
@@ -29,11 +25,7 @@
 </a>
 </div>
 
-> **Minimus** is a movie and TV discovery and tracking platform. You can search and browse titles, keep watchlists, favorites and a viewing history, rate and review, and follow your viewing statistics from a profile. Sign-in works with email or Google, and an admin panel is protected by role-based access control.
->
-> React · Vite · Tailwind CSS · Framer Motion · Node.js · Express · PostgreSQL · Prisma · JWT · Google OAuth · TMDB · OMDB
->
-> [Live demo](https://minimus-frontend.onrender.com) · [Source](https://github.com/dncoder14/Minimus)
+> **Minimus**, a movie and TV tracker with an admin panel. [Live demo](https://minimus-frontend.onrender.com) · [Source](https://github.com/dncoder14/Minimus)
 
 <div align="center">
 <picture>
@@ -41,8 +33,6 @@
   <img src="assets/experience.svg" width="100%" alt="Full-Stack Developer Intern at Pixel Flow Studio. A React interface talks to FastAPI REST services backed by PostgreSQL, alongside third-party messaging integrations, document automation, delivery tracking and backend workflows.">
 </picture>
 </div>
-
-> **Full-Stack Developer Intern, Pixel Flow Studio.** Day to day I work across React, FastAPI and PostgreSQL: REST APIs, third-party messaging integrations, document automation, delivery tracking and backend workflows.
 
 <div align="center">
 <picture>
